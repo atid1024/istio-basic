@@ -2,7 +2,7 @@
 - 클러스터에 istio 설치
 - 영문 문자열을 리턴하는 app 작성 (sitpv-en)
 - 한글 문자열을 리턴하는 app 작성 (sitpv-ko)
-### API 생성
+### APP 생성
 - main.py
 ```python
 from fastapi import FastAPI
